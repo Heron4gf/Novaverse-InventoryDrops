@@ -1,0 +1,4 @@
+chest:
+  displayname: "{red}%player_name% items" # support MiniMessages and PAPI
+  expire: 300 # seconds
+  size: 1

@@ -1,0 +1,7 @@
+name: InventoryDrops
+version: '5.0'
+main: it.heron4gf.inventoryDrops.InventoryDrops
+api-version: '1.21'
+authors: [ HDEV ]
+description: Packet based Pet system
+website: https://hdev.it

@@ -52,7 +52,7 @@ To submit a pull request (PR):
 
 ## Development Setup
 ### Prerequisites
-- Java Development Kit (JDK) version 21 or higher
+- Java Development Kit (JDK) version 17
 - Gradle installed
 
 ### Building the Plugin
